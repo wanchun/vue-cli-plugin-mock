@@ -4,7 +4,6 @@
     "description": "vue-cli插件，提供开发过程中的mock数据功能",
     "author": "wanchun",
     "license": "MIT",
-    "private": true,
     "scripts": {},
     "repository": {
         "type": "git",
