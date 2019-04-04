@@ -1,12 +1,12 @@
 ### 安装
-vue add @webank/mock
+vue add mockjs
 
 ### 配置
 在vue.config.js中添加
 ```javascript
 pluginOptions: {
     mock: {
-        entry: 'mock.js',   // mock文件，默认为 'mock.js'
+        entry: 'mock.js',   // mock配置文件，默认为 'mock.js'
         power: true         // 开关，默认为 true
     }
 }
