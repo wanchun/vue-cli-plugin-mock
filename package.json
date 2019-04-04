@@ -1,9 +1,13 @@
 {
-    "name": "@webank/vue-cli-plugin-mock",
-    "version": "0.1.0",
+    "name": "vue-cli-plugin-mockjs",
+    "version": "0.1.1",
     "description": "vue-cli插件，提供开发过程中的mock数据功能",
     "author": "wanchun",
     "license": "MIT",
+    "keywords": [
+        "vue-cli",
+        "plugin"
+    ],
     "scripts": {},
     "repository": {
         "type": "git",
