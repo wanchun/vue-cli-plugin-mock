@@ -1,6 +1,6 @@
 {
     "name": "vue-cli-plugin-mockjs",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "vue-cli插件，提供开发过程中的mock数据功能",
     "author": "wanchun",
     "license": "MIT",
