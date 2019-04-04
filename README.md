@@ -1,13 +1,18 @@
-### 安装
+### Install 安装
 vue add mockjs
 
-### 配置
-在vue.config.js中添加
+### Config 配置
+在vue.config.js中添加：
+add in vue.config.js:
 ```javascript
 pluginOptions: {
     mock: {
-        entry: 'mock.js',   // mock配置文件，默认为 'mock.js'
-        power: true         // 开关，默认为 true
+        // mock配置文件，默认为 'mock.js'
+        // Configuration file, default is 'mock.js'
+        entry: 'mock.js',  
+        // 开关，默认为 true
+        // switch, default is true
+        power: true         
     }
 }
 ```
